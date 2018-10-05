@@ -1,0 +1,7 @@
+Todo:
+  Parser:
+    ☐ decide token structure
+    ☐ create parser
+  Lexer:
+    ☐ decide ast structure
+    ☐ create lexer
